@@ -36,9 +36,13 @@ mnist_digit_classification.py: 📝 Main script with model training and evaluati
 
 ## 📊 Visualization
 The project includes various visualizations:
+
 📈 Training and validation accuracy/loss curves
+
 🕵️ Misclassified samples
+
 🔍 Confusion matrix
+
 📊 Classification accuracy per digit
 
 ## 📜 License
