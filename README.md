@@ -24,7 +24,7 @@ The neural network consists of:
 - 🐍 Python 3.7+
 - 🤖 TensorFlow 2.x
 - 📊 NumPy
-- 📋 Pandas
+- 🐼 Pandas
 - 📈 Matplotlib
 - 🌈 Seaborn
 - 🧮 Scikit-learn
