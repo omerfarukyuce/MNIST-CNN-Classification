@@ -20,7 +20,7 @@ The neural network consists of:
 - **Test Precision**: 99.48% 🎯
 - **Test Recall**: 99.44% 🚀
 
-## 🛠️ Dependencies
+## 🛠️ Technologies Used
 - 🐍 Python 3.7+
 - 🤖 TensorFlow 2.x
 - 📊 NumPy
